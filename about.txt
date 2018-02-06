@@ -1,0 +1,2 @@
+The file carcount.csv contains the number of cars observed in a parking lot for a retail location like Wal-Mart from satellite imagery. This analysis involves some exploration of the data and fitting of an ARIMA model to forecast car count.
+
